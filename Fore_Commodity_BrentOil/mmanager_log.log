@@ -1,0 +1,10 @@
+INFO:2023-05-05 18:49:44,175:mmanager.log_keeper:Post usecase succeed with status code 201
+ERROR:2023-05-05 18:51:06,012:mmanager.log_keeper:Update usecase failed with status code 404
+INFO:2023-05-05 18:51:34,800:mmanager.log_keeper:Update usecase succeed with status code 200
+INFO:2023-05-05 18:52:34,145:mmanager.log_keeper:Delete usecase succeed with status code 204
+INFO:2023-05-05 18:54:32,833:mmanager.log_keeper:Model creation succeed with status code 201
+INFO:2023-05-05 18:55:36,955:mmanager.log_keeper:Update model succeed with status code 200
+INFO:2023-05-05 18:58:31,664:mmanager.log_keeper:Report Generation succeed with status code 201
+INFO:2023-05-05 18:59:37,417:mmanager.log_keeper:Report Generation succeed with status code 201
+INFO:2023-05-15 05:54:41,991:mmanager.log_keeper:Report Generation succeed with status code 201
+INFO:2023-05-19 11:08:35,283:mmanager.log_keeper:Report Generation succeed with status code 201
